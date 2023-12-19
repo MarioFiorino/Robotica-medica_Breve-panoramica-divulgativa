@@ -1,5 +1,7 @@
 In questo repository, le slide del mio intervento al Percorso Future Internet 2023, presso l‘Università Giustino Fortunato, incontro del 19 dicembre 2023.
 
+Tema :  Intelligenza artificiale e robotica per la medicina
+
 Sinossi:
 
 Nel corso di questo intervento, mi prenderò cura di esaminare il tema della robotica medica, un ambito disciplinare che si sta rapidamente affermando come elemento cruciale all'interno del panorama medico. Lo sviluppo di questa disciplina sta effettuando una trasformazione su vasta scala di tutti gli aspetti della pratica medica contemporanea.
